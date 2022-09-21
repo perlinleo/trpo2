@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
         <Text>Федор Старых</Text>
+	<Text>Fedor Starykh</Text>
         <Text>Леонид Перлин</Text>
         <Text>Леонид Перлин</Text>
       <StatusBar style="auto" />
