@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
         <Text>Федор Старых</Text>
         <Text>Леонид Перлин</Text>
+        <Text>Leonid Perlin</Text>
       <StatusBar style="auto" />
     </View>
   );
